@@ -29,7 +29,6 @@ Driver Drowsiness Detection monitors a driver's eyes through a webcam and identi
 
 ## Project Structure
 
-```text
 Driver-Drowsiness-Detection/
 │
 ├── app.py
@@ -44,15 +43,13 @@ Driver-Drowsiness-Detection/
 
 Install the required libraries:
 
-```bash
 pip install opencv-python mediapipe numpy scipy streamlit
-```
+
 
 Run the application:
 
-```bash
 streamlit run app.py
-```
+
 
 ## Output
 
