@@ -29,7 +29,7 @@ Driver Drowsiness Detection monitors a driver's eyes through a webcam and identi
 
 ## Project Structure
 
-Driver-Drowsiness-Detection/
+Driver-Drowsiness-Detection
 │
 ├── app.py
 ├── main.py
